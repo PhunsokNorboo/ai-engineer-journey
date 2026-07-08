@@ -14,3 +14,4 @@ Python, RAG, LLM APIs, LangChain/LlamaIndex, vector databases, agents, evaluatio
 
 ## Log
 - Day 1: Set up dev environment, ran my first local LLM with Ollama, created this repo.
+- Day 2: Python refresh — types, f-strings, comprehensions, dataclasses, error handling; wrote word_stats.py.
